@@ -23,6 +23,15 @@ Reference Paper
 
 [3] Snoek, J., Larochelle, H., & Adams, R. P. (2012). Practical bayesian optimization of machine learning algorithms. In Advances in neural information processing systems (pp. 2951-2959).
 
+Contributor
+------------
+- Sunil Sahoo
+- Brojo Kishore Mishra
+- Shantipriya Parida
+- Satya Ranjan Dash
+- Jatindra Nath Besra
+- Esau Villatoro-Tello 
+
 Citation
 --------
 
