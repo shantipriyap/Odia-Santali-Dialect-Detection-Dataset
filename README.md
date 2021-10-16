@@ -1,7 +1,5 @@
-# Odia-Santali-Dialect-Detection-Dataset
-
-Overview
----------
+Odia Santali Dialect Detection Dataset
+---------------------------------------
 
 
 
