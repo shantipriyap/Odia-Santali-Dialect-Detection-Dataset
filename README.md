@@ -1,7 +1,7 @@
 Overview
 ---------
 
-The repository contains the Odia-Santali dialect detection data i.e. Text written in Odia and Santali (using Odia script). The code is also available for detecting Odia and Santali.  
+The repository contains the Odia-Santali dialect detection data i.e. text written in Odia and Santali (using Odia script). The code is also available for detecting Odia and Santali.  
 
 
 Dependency
