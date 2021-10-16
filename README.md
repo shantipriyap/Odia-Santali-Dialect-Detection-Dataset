@@ -1,6 +1,7 @@
 Overview
 ---------
 
+The repository contains the Odia-Santali dialect detection data i.e. Text written in Odia and Santali (using Odia script). The code is also available for detecting Odia and Santali.  
 
 
 Dependency
@@ -27,9 +28,9 @@ Citation
 
 If you found our research helpful or influential please consider citing
 
-@inproceedings{parida2020idiap,
-  title={Idiap Submission to Swiss-German Language Detection Shared Task},
-  author={Parida, Shantipriya and {\'u} Villatoro-Tello, Esa and Kumar, Sajit and Motlicek, Petr and Zhan, Qingran},
-  booktitle={Proceedings of the 5th Swiss Text Analytics Conference (SwissText) \& 16th Conference on Natural Language Processing (KONVENS)},
-  year={2020}
+@inproceedings{santali_dialect_detection,
+  title={Automatic Dialect Detection for Low Resource Santali Language},
+  author={Sahoo, Sunil and Mishra, Brojo Kishore and Parida, Shantipriya and Dash, Satya Ranjan and Besra, Jatindra Nath and {\'u} Villatoro-Tello, Esau},
+  booktitle={Proceedings of the 19th OITS International Conference on Information Technology},
+  year={2021}
 }
