@@ -13,6 +13,11 @@ PyTorch (torch=1.0.1, torchtext=0.4.0, torchvision=0.4.0)
 
 Utilities (Skopt, sklearn, numpy, Zipfile, Pandas, Pickel) 
 
+How to Run ?
+-------------
+The language detection code supports both CPU/GPU. For running in CPU/GPU mode, enable/disable the "is_gpu" flag to "True" or "False" inside the "lang_detect_santali.py" file. 
+
+
 
 Reference Paper
 ---------------
