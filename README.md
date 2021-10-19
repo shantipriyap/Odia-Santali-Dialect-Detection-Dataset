@@ -17,6 +17,11 @@ How to Run ?
 -------------
 The language detection code supports both CPU/GPU. For running in CPU/GPU mode, enable/disable the "is_gpu" flag to "True" or "False" inside the "lang_detect_santali.py" file. 
 
+Usage: Execute the following command on the command line to run using CPU:
+```
+python lang_detect_santali.py
+```
+
 
 
 Reference Paper
