@@ -12,7 +12,7 @@ Model
 The Supervised Autoencoder (SAE) used to build the model.
 
 <p align="center">
-  <img src="santali_sample.png" width="800" height="400">
+  <img src="santali.png" width="800" height="400">
 </p>
 
 
