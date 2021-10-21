@@ -9,7 +9,7 @@ The repository contains the Odia-Santali dialect detection data i.e. text writte
 
 Model
 -------
-The Supervised Autoencoder (SAE) used to build the model.
+The Supervised Autoencoder (SAE) used for the language detection task. Please refer to the mentioned papers for more details.
 
 <p align="center">
   <img src="santali.png" width="900" height="250">
