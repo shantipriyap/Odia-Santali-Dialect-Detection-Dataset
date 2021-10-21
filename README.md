@@ -5,6 +5,10 @@ The repository contains the Odia-Santali dialect detection data i.e. text writte
 
 ![Screenshot](santali_sample.png)
 
+<p align="center">
+  <img src="santali_sample.png="100" title="Sample Santali and Odia text">
+</p>
+
 
 
 
