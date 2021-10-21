@@ -1,12 +1,18 @@
 Overview
 ---------
 
-The repository contains the Odia-Santali dialect detection data i.e. text written in Odia and Santali (using Odia script). 
-
-![Screenshot](santali_sample.png)
+The repository contains the Odia-Santali dialect detection data i.e. text written in Odia and Santali (using Odia script) as shown below. 
 
 <p align="center">
-  <img src="santali_sample.png" width="200" height="200">
+  <img src="santali_sample.png" width="800" height="400">
+</p>
+
+Model
+-------
+The Supervised Autoencoder (SAE) used to build the model.
+
+<p align="center">
+  <img src="santali_sample.png" width="800" height="400">
 </p>
 
 
