@@ -4,7 +4,7 @@ Overview
 The repository contains the Odia-Santali dialect detection data i.e. text written in Odia and Santali (using Odia script) as shown below. 
 
 <p align="center">
-  <img src="santali_sample.png" width="600" height="300">
+  <img src="santali_sample.png" width="600" height="350">
 </p>
 
 Model
@@ -12,7 +12,7 @@ Model
 The Supervised Autoencoder (SAE) used to build the model.
 
 <p align="center">
-  <img src="santali.png" width="800" height="200">
+  <img src="santali.png" width="900" height="250">
 </p>
 
 The code is also available for detecting Odia and Santali.  
@@ -63,10 +63,10 @@ Contributor
 ------------
 - Sunil Sahoo
 - Brojo Kishore Mishra
-- Shantipriya Parida
-- Satya Ranjan Dash
+- [Shantipriya Parida](https://www.idiap.ch/~sparida/)
+- [Satya Ranjan Dash](https://ksca.kiit.ac.in/profiles/satya-ranjan-dash/)
 - Jatindra Nath Besra
-- Esau Villatoro-Tello 
+- [Esau Villatoro-Tello](https://www.idiap.ch/~evillatoro/) 
 
 Citation
 --------
